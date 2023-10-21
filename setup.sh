@@ -54,6 +54,12 @@ brew cask install qlvideo
 brew cask install quicklook-pat
 brew cask install epubquicklook
 
+# INSTALL NPM, YARN, BUN, NODE
+brew tap oven-sh/bun
+brew install bun
+brew install yarn
+brew install node
+
 
 # INSTALL GUI APPS
 brew cask install slack
